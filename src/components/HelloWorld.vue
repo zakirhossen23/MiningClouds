@@ -32,40 +32,19 @@
       </p>
       <div class="inner-box">
         <ul class="mining__list js-slider" style="padding-top: 35px">
-          <li
-            class="mining__item"
-            style=""
-            aria-hidden="true"
-            tabindex="0"
-            role="tabpanel"
-            id="slick-slide20"
-            aria-describedby="slick-slide-control20"
-          >
+          <li class="mining__item" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide20"
+            aria-describedby="slick-slide-control20">
             <div class="mining-ico" style="font-size: 32px">
-              <span data-v-e17ea971="" class="icon-icon-20"
-                ><img
-                  src="https://cdn-icons-png.flaticon.com/512/2434/2434507.png"
-                  width="32"
-              /></span>
+              <span data-v-e17ea971="" class="icon-icon-20"><img
+                  src="https://cdn-icons-png.flaticon.com/512/2434/2434507.png" width="32" /></span>
             </div>
             <h6>Daily payouts</h6>
             <div class="mining-text">in BTC, ETH</div>
           </li>
-          <li
-            class="mining__item"
-            style=""
-            aria-hidden="true"
-            tabindex="-1"
-            role="tabpanel"
-            id="slick-slide21"
-            aria-describedby="slick-slide-control21"
-          >
+          <li class="mining__item" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide21"
+            aria-describedby="slick-slide-control21">
             <div class="mining-ico" style="font-size: 32px">
-              <span class="icon-icon-21"
-                ><img
-                  src="https://cdn-icons-png.flaticon.com/512/6520/6520559.png"
-                  width="32"
-                />
+              <span class="icon-icon-21"><img src="https://cdn-icons-png.flaticon.com/512/6520/6520559.png" width="32" />
               </span>
             </div>
             <h6>"Pro" contract</h6>
@@ -73,21 +52,11 @@
               with extra 20% interest per year <span>*</span>
             </div>
           </li>
-          <li
-            class="mining__item"
-            style=""
-            aria-hidden="true"
-            tabindex="-1"
-            role="tabpanel"
-            id="slick-slide22"
-            aria-describedby="slick-slide-control22"
-          >
+          <li class="mining__item" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide22"
+            aria-describedby="slick-slide-control22">
             <div class="mining-ico" style="font-size: 34px">
-              <span class="icon-icon-22"
-                ><img
-                  src="https://cdn-icons-png.flaticon.com/512/2272/2272825.png"
-                  width="32"
-              /></span>
+              <span class="icon-icon-22"><img src="https://cdn-icons-png.flaticon.com/512/2272/2272825.png"
+                  width="32" /></span>
             </div>
             <h6>Income Booster</h6>
             <div class="mining-text">
@@ -95,21 +64,11 @@
               earn up 180% a year
             </div>
           </li>
-          <li
-            class="mining__item"
-            style=""
-            aria-hidden="true"
-            tabindex="-1"
-            role="tabpanel"
-            id="slick-slide23"
-            aria-describedby="slick-slide-control23"
-          >
+          <li class="mining__item" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide23"
+            aria-describedby="slick-slide-control23">
             <div class="mining-ico" style="font-size: 40px">
-              <span class="icon-icon-22"
-                ><img
-                  src="https://cdn-icons-png.flaticon.com/512/8898/8898892.png"
-                  width="32"
-              /></span>
+              <span class="icon-icon-22"><img src="https://cdn-icons-png.flaticon.com/512/8898/8898892.png"
+                  width="32" /></span>
             </div>
             <h6>24/7 live support</h6>
             <div class="mining-text">With reponse time under 2 min</div>
@@ -142,38 +101,23 @@
       <div class="tab-wrap active">
         <ul class="nav-tab-list tabs">
           <li class="nav-tab-list__item active">
-            <a href="#tab_1" v-on:click="activeTab" class="nav-tab-list__link"
-              >1 year contract</a
-            >
+            <a href="#tab_1" v-on:click="activeTab" class="nav-tab-list__link">1 year contract</a>
           </li>
           <li class="nav-tab-list__item">
-            <a href="#tab_2" v-on:click="activeTab" class="nav-tab-list__link"
-              >2 years contract</a
-            >
+            <a href="#tab_2" v-on:click="activeTab" class="nav-tab-list__link">2 years contract</a>
           </li>
           <li class="nav-tab-list__item">
-            <a href="#tab_3" v-on:click="activeTab" class="nav-tab-list__link"
-              >5 years contract</a
-            >
+            <a href="#tab_3" v-on:click="activeTab" class="nav-tab-list__link">5 years contract</a>
           </li>
           <li class="nav-tab-list__item">
-            <a href="#tab_4" v-on:click="activeTab" class="nav-tab-list__link"
-              >lifetime</a
-            >
+            <a href="#tab_4" v-on:click="activeTab" class="nav-tab-list__link">lifetime</a>
           </li>
         </ul>
         <div class="box-tab-cont">
           <div class="tab-cont active" id="tab_1">
             <div class="calc-table calc-table-1">
-              <div
-                class="calc-column calc-column_1"
-                style=""
-                aria-hidden="true"
-                tabindex="0"
-                role="tabpanel"
-                id="slick-slide60"
-                aria-describedby="slick-slide-control60"
-              >
+              <div class="calc-column calc-column_1" style="" aria-hidden="true" tabindex="0" role="tabpanel"
+                id="slick-slide60" aria-describedby="slick-slide-control60">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_title"></div>
                 </div>
@@ -204,15 +148,8 @@
                   <div class="calc-td calc-td_title"></div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide61"
-                aria-describedby="slick-slide-control61"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide61"
+                aria-describedby="slick-slide-control61">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256</div>
                 </div>
@@ -273,30 +210,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide62"
-                aria-describedby="slick-slide-control62"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide62"
+                aria-describedby="slick-slide-control62">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 Pro</div>
                 </div>
@@ -357,30 +280,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide63"
-                aria-describedby="slick-slide-control63"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide63"
+                aria-describedby="slick-slide-control63">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 BCH</div>
                 </div>
@@ -441,30 +350,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide64"
-                aria-describedby="slick-slide-control64"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide64"
+                aria-describedby="slick-slide-control64">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">USDT</div>
                 </div>
@@ -525,32 +420,18 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <button
-                        class="btn disabled"
-                        disabled=""
-                        style="opacity: 0.7"
-                        tabindex="-1"
-                      >
+                      <button class="btn disabled" disabled="" style="opacity: 0.7" tabindex="-1">
                         Out of Stock
                       </button>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide65"
-                aria-describedby="slick-slide-control65"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide65"
+                aria-describedby="slick-slide-control65">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">Ethereum</div>
                 </div>
@@ -611,17 +492,10 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <button
-                        class="btn disabled"
-                        disabled=""
-                        style="opacity: 0.7"
-                        tabindex="-1"
-                      >
+                      <button class="btn disabled" disabled="" style="opacity: 0.7" tabindex="-1">
                         Out of Stock
                       </button>
                     </div>
@@ -632,15 +506,8 @@
           </div>
           <div class="tab-cont hide" id="tab_2">
             <div class="calc-table calc-table-2">
-              <div
-                class="calc-column calc-column_1"
-                style=""
-                aria-hidden="true"
-                tabindex="0"
-                role="tabpanel"
-                id="slick-slide70"
-                aria-describedby="slick-slide-control70"
-              >
+              <div class="calc-column calc-column_1" style="" aria-hidden="true" tabindex="0" role="tabpanel"
+                id="slick-slide70" aria-describedby="slick-slide-control70">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_title"></div>
                 </div>
@@ -671,15 +538,8 @@
                   <div class="calc-td calc-td_title"></div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide71"
-                aria-describedby="slick-slide-control71"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide71"
+                aria-describedby="slick-slide-control71">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256</div>
                 </div>
@@ -740,30 +600,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide72"
-                aria-describedby="slick-slide-control72"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide72"
+                aria-describedby="slick-slide-control72">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 Pro</div>
                 </div>
@@ -824,30 +670,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide73"
-                aria-describedby="slick-slide-control73"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide73"
+                aria-describedby="slick-slide-control73">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 BCH</div>
                 </div>
@@ -908,30 +740,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide74"
-                aria-describedby="slick-slide-control74"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide74"
+                aria-describedby="slick-slide-control74">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">Ethereum</div>
                 </div>
@@ -992,17 +810,10 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <button
-                        class="btn disabled"
-                        disabled=""
-                        style="opacity: 0.7"
-                        tabindex="-1"
-                      >
+                      <button class="btn disabled" disabled="" style="opacity: 0.7" tabindex="-1">
                         Out of Stock
                       </button>
                     </div>
@@ -1013,15 +824,8 @@
           </div>
           <div class="tab-cont hide" id="tab_3">
             <div class="calc-table calc-table-3">
-              <div
-                class="calc-column calc-column_1"
-                style=""
-                aria-hidden="true"
-                tabindex="0"
-                role="tabpanel"
-                id="slick-slide80"
-                aria-describedby="slick-slide-control80"
-              >
+              <div class="calc-column calc-column_1" style="" aria-hidden="true" tabindex="0" role="tabpanel"
+                id="slick-slide80" aria-describedby="slick-slide-control80">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_title"></div>
                 </div>
@@ -1052,15 +856,8 @@
                   <div class="calc-td calc-td_title"></div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide81"
-                aria-describedby="slick-slide-control81"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide81"
+                aria-describedby="slick-slide-control81">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256</div>
                 </div>
@@ -1121,30 +918,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide82"
-                aria-describedby="slick-slide-control82"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide82"
+                aria-describedby="slick-slide-control82">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 Pro</div>
                 </div>
@@ -1205,30 +988,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide83"
-                aria-describedby="slick-slide-control83"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide83"
+                aria-describedby="slick-slide-control83">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 BCH</div>
                 </div>
@@ -1289,30 +1058,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide84"
-                aria-describedby="slick-slide-control84"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide84"
+                aria-describedby="slick-slide-control84">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">Ethereum</div>
                 </div>
@@ -1373,17 +1128,10 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <button
-                        class="btn disabled"
-                        disabled=""
-                        style="opacity: 0.7"
-                        tabindex="-1"
-                      >
+                      <button class="btn disabled" disabled="" style="opacity: 0.7" tabindex="-1">
                         Out of Stock
                       </button>
                     </div>
@@ -1394,15 +1142,8 @@
           </div>
           <div class="tab-cont hide" id="tab_4">
             <div class="calc-table calc-table-4">
-              <div
-                class="calc-column calc-column_1"
-                style=""
-                aria-hidden="true"
-                tabindex="0"
-                role="tabpanel"
-                id="slick-slide90"
-                aria-describedby="slick-slide-control90"
-              >
+              <div class="calc-column calc-column_1" style="" aria-hidden="true" tabindex="0" role="tabpanel"
+                id="slick-slide90" aria-describedby="slick-slide-control90">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_title"></div>
                 </div>
@@ -1433,15 +1174,8 @@
                   <div class="calc-td calc-td_title"></div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide91"
-                aria-describedby="slick-slide-control91"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide91"
+                aria-describedby="slick-slide-control91">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256</div>
                 </div>
@@ -1502,30 +1236,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide92"
-                aria-describedby="slick-slide-control92"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide92"
+                aria-describedby="slick-slide-control92">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 Pro</div>
                 </div>
@@ -1586,30 +1306,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide93"
-                aria-describedby="slick-slide-control93"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide93"
+                aria-describedby="slick-slide-control93">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">SHA-256 BCH</div>
                 </div>
@@ -1670,30 +1376,16 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <a
-                        href="/ext-register"
-                        class="btn auto-buylink"
-                        tabindex="-1"
-                        >Buy now</a
-                      >
+                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div
-                class="calc-column"
-                style=""
-                aria-hidden="true"
-                tabindex="-1"
-                role="tabpanel"
-                id="slick-slide94"
-                aria-describedby="slick-slide-control94"
-              >
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide94"
+                aria-describedby="slick-slide-control94">
                 <div class="calc-row calc-row_modmh70">
                   <div class="calc-td calc-td_head">Ethereum</div>
                 </div>
@@ -1754,17 +1446,10 @@
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
                     <div class="calc-td calc-td_link">
-                      <a href="#simplecalc" class="auto-calclink" tabindex="-1"
-                        >Mining calculator</a
-                      >
+                      <a href="#simplecalc" class="auto-calclink" tabindex="-1">Mining calculator</a>
                     </div>
                     <div class="calc-td">
-                      <button
-                        class="btn disabled"
-                        disabled=""
-                        style="opacity: 0.7"
-                        tabindex="-1"
-                      >
+                      <button class="btn disabled" disabled="" style="opacity: 0.7" tabindex="-1">
                         Out of Stock
                       </button>
                     </div>
@@ -1790,8 +1475,7 @@
                 <div class="calc-drop__block">
                   <a href="#" class="calc-drop__link">SHA-256 Pro</a>
                   <div class="calc-drop__cont">
-                    <a>SHA-256</a><a>SHA-256 Pro</a><a>SHA-256 BCH</a><a>USDT</a
-                    ><a>Ethereum</a>
+                    <a>SHA-256</a><a>SHA-256 Pro</a><a>SHA-256 BCH</a><a>USDT</a><a>Ethereum</a>
                   </div>
                 </div>
               </div>
@@ -1822,39 +1506,18 @@
           </div>
         </div>
         <div class="calc__bottom js-steps-slider-calc">
-          <div
-            class="calc__bottom-item"
-            style=""
-            tabindex="0"
-            role="tabpanel"
-            id="slick-slide370"
-            aria-describedby="slick-slide-control370"
-            aria-hidden="true"
-          >
+          <div class="calc__bottom-item" style="" tabindex="0" role="tabpanel" id="slick-slide370"
+            aria-describedby="slick-slide-control370" aria-hidden="true">
             <div class="calc-cat">Daily income</div>
             <div id="calc-day" class="calc-cat-money">$0.03</div>
           </div>
-          <div
-            class="calc__bottom-item"
-            style=""
-            tabindex="-1"
-            role="tabpanel"
-            id="slick-slide371"
-            aria-describedby="slick-slide-control371"
-            aria-hidden="true"
-          >
+          <div class="calc__bottom-item" style="" tabindex="-1" role="tabpanel" id="slick-slide371"
+            aria-describedby="slick-slide-control371" aria-hidden="true">
             <div class="calc-cat">Monthly income</div>
             <div id="calc-month" class="calc-cat-money">$1</div>
           </div>
-          <div
-            class="calc__bottom-item"
-            style=""
-            tabindex="-1"
-            role="tabpanel"
-            id="slick-slide372"
-            aria-describedby="slick-slide-control372"
-            aria-hidden="true"
-          >
+          <div class="calc__bottom-item" style="" tabindex="-1" role="tabpanel" id="slick-slide372"
+            aria-describedby="slick-slide-control372" aria-hidden="true">
             <div class="calc-cat">Annual income</div>
             <div id="calc-year" class="calc-cat-money">$11</div>
           </div>
@@ -1875,88 +1538,32 @@
       </p>
 
       <ul class="logo__list">
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="0"
-          role="tabpanel"
-          id="slick-slide50"
-          aria-describedby="slick-slide-control50"
-        >
-          <img src="https://svgshare.com/i/rEn.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide50"
+          aria-describedby="slick-slide-control50">
+          <img src="/assets/logo-1.svg" alt="alt" />
         </li>
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="0"
-          role="tabpanel"
-          id="slick-slide51"
-        >
-          <img src="https://svgshare.com/i/rEH.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide51">
+          <img src="/assets/logo-2.svg" alt="alt" />
         </li>
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="0"
-          role="tabpanel"
-          id="slick-slide52"
-        >
-          <img src="https://svgshare.com/i/rFd.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide52">
+          <img src="/assets/logo-3.svg" alt="alt" />
         </li>
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="-1"
-          role="tabpanel"
-          id="slick-slide53"
-          aria-describedby="slick-slide-control51"
-        >
-          <img src="https://svgshare.com/i/rEJ.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
+          aria-describedby="slick-slide-control51">
+          <img src="/assets/logo-4.svg" alt="alt" />
         </li>
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="-1"
-          role="tabpanel"
-          id="slick-slide54"
-        >
-          <img src="https://svgshare.com/i/rE4.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide54">
+          <img src="/assets/logo-5.svg" alt="alt" />
         </li>
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="-1"
-          role="tabpanel"
-          id="slick-slide55"
-        >
-          <img src="https://svgshare.com/i/rEK.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide55">
+          <img src="/assets/logo-6.svg" alt="alt" />
         </li>
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="-1"
-          role="tabpanel"
-          id="slick-slide56"
-          aria-describedby="slick-slide-control52"
-        >
-          <img src="https://svgshare.com/i/rF8.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide56"
+          aria-describedby="slick-slide-control52">
+          <img src="/assets/logo-7.svg" alt="alt" />
         </li>
-        <li
-          class=""
-          style=""
-          aria-hidden="true"
-          tabindex="-1"
-          role="tabpanel"
-          id="slick-slide57"
-        >
-          <img src="https://svgshare.com/i/rFe.svg" alt="alt" />
+        <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide57">
+          <img src="/assets/logo-8.svg" alt="alt" />
         </li>
       </ul>
       <div style="margin-top: 60px">
