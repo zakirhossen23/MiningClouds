@@ -17,7 +17,7 @@
         <nav class="nav">
           <ul class="nav__list">
             <li class="nav__item">
-              <a href="/invest" class="nav__link">Invest</a>
+              <a href="/invest" hidden class="nav__link">Invest</a>
             </li>
             <li class="nav__item"><a href="/mine" class="nav__link">Cloud Mine</a></li>
             <li class="nav__item">
