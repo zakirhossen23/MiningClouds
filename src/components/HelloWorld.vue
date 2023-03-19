@@ -219,7 +219,7 @@
     </div>
     <div class="wrapper">
       <div class="inner-box">
-        <h1 class="title">Mine</h1>
+        <h1 class="title">Cloud Mining</h1>
         <p>
           MiningCloud platform combines <strong>cloud mining</strong> with daily
           payments and Forex margin trading, options and cryptocurrencies,
@@ -228,9 +228,6 @@
         <div class="head-pics">
           <div class="head-pic head-pic_1">
             <img src="/assets/home/1.png" alt="alt" />
-          </div>
-          <div class="head-pic head-pic_2">
-            <img src="/assets/home/2.png" alt="alt" />
           </div>
         </div>
       </div>
@@ -450,10 +447,8 @@
                   <div class="calc-td calc-td_hide">Contract price:</div>
 
                   <div class="calc-td-inner">
-                    <div class="calc-td calc-td_small calc-td_line">
-                      from <span>$0.958</span>
-                    </div>
-                    <div class="calc-td calc-td_count">599$</div>
+                  
+                    <div class="calc-td calc-td_count">$ 0.113</div>
                     <div class="calc-td calc-td_small">per 10 GH/s</div>
                   </div>
                 </div>
@@ -518,10 +513,8 @@
                   <div class="calc-td calc-td_hide">Contract price:</div>
 
                   <div class="calc-td-inner">
-                    <div class="calc-td calc-td_small calc-td_line">
-                      from <span>$1.152</span>
-                    </div>
-                    <div class="calc-td calc-td_count">799$</div>
+                 
+                    <div class="calc-td calc-td_count">$ 0.793</div>
                     <div class="calc-td calc-td_small">per 10 GH/s</div>
                   </div>
                 </div>
@@ -586,10 +579,8 @@
                 <div class="calc-td calc-td_hide">Contract price:</div>
 
                 <div class="calc-td-inner">
-                  <div class="calc-td calc-td_small calc-td_line">
-                    from <span>$1.152</span>
-                  </div>
-                  <div class="calc-td calc-td_count">899$</div>
+                
+                  <div class="calc-td calc-td_count">$ 0.793</div>
                   <div class="calc-td calc-td_small">per 10 GH/s</div>
                 </div>
               </div>
@@ -645,19 +636,17 @@
               </div>
               <div class="calc-row">
                 <div class="calc-td calc-td_hide">Availability:</div>
-
+            
                 <div class="calc-td-inner">
-                  <div class="calc-td">Out of Stock</div>
-                </div>
+                    <div class="calc-td">In Stock</div>
+                  </div>
               </div>
               <div class="calc-row calc-row_modmh120">
                 <div class="calc-td calc-td_hide">Contract price:</div>
 
                 <div class="calc-td-inner">
-                  <div class="calc-td calc-td_small calc-td_line">
-                    from <span>$2.58</span>
-                  </div>
-                  <div class="calc-td calc-td_count">1299$</div>
+                
+                  <div class="calc-td calc-td_count">$ 1.803</div>
                   <div class="calc-td calc-td_small">per 0.1 MH/s</div>
                 </div>
               </div>
@@ -671,11 +660,9 @@
               </div>
               <div class="calc-row calc-row_modmh140">
                 <div class="calc-td-inner calc-td-inner_full">
-              
+                 
                   <div class="calc-td">
-                    <button class="btn disabled" disabled="" style="opacity: 0.7" tabindex="-1">
-                      Out of Stock
-                    </button>
+                    <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
                   </div>
                 </div>
               </div>
