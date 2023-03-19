@@ -211,7 +211,6 @@ h1.blabla {
   margin-top: 35px;
 }
 .main-wrapper .mining__item {
-  width: calc(50% - 15px);
   margin-bottom: 50px;
 }
 .main-wrapper .mining-ico {
