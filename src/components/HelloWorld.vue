@@ -453,7 +453,7 @@
                     <div class="calc-td calc-td_small calc-td_line">
                       from <span>$0.958</span>
                     </div>
-                    <div class="calc-td calc-td_count">$ 0.671</div>
+                    <div class="calc-td calc-td_count">599$</div>
                     <div class="calc-td calc-td_small">per 10 GH/s</div>
                   </div>
                 </div>
@@ -521,7 +521,7 @@
                     <div class="calc-td calc-td_small calc-td_line">
                       from <span>$1.152</span>
                     </div>
-                    <div class="calc-td calc-td_count">$ 0.806</div>
+                    <div class="calc-td calc-td_count">799$</div>
                     <div class="calc-td calc-td_small">per 10 GH/s</div>
                   </div>
                 </div>
@@ -589,7 +589,7 @@
                   <div class="calc-td calc-td_small calc-td_line">
                     from <span>$1.152</span>
                   </div>
-                  <div class="calc-td calc-td_count">$ 0.806</div>
+                  <div class="calc-td calc-td_count">899$</div>
                   <div class="calc-td calc-td_small">per 10 GH/s</div>
                 </div>
               </div>
@@ -657,7 +657,7 @@
                   <div class="calc-td calc-td_small calc-td_line">
                     from <span>$2.58</span>
                   </div>
-                  <div class="calc-td calc-td_count">$ 1.803</div>
+                  <div class="calc-td calc-td_count">1299$</div>
                   <div class="calc-td calc-td_small">per 0.1 MH/s</div>
                 </div>
               </div>
