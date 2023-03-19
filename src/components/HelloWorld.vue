@@ -221,9 +221,7 @@
       <div class="inner-box">
         <h1 class="title">Cloud Mining</h1>
         <p>
-          MiningCloud platform combines <strong>cloud mining</strong> with daily
-          payments and Forex margin trading, options and cryptocurrencies,
-          giving the opportunity to multiply potential income.
+          MiningCloud platform combines <strong>cloud mining</strong>mining without actually buying storages.
         </p>
         <div class="head-pics">
           <div class="head-pic head-pic_1">
@@ -337,7 +335,7 @@
             <div class="mining-text">With reponse time under 2 min</div>
           </li>
         </ul>
-        <a href="/ext-register" class="btn">Start Mining Now</a>
+        <a href="#contract" class="btn">Start Mining Now</a>
       </div>
       <div class="mining__desc">
         <p>
@@ -349,7 +347,7 @@
     </div>
   </section>
 
-  <section class="section section_cntr" style="padding-top: 0px">
+  <section class="section section_cntr" id="contract" style="padding-top: 0px">
     <div class="wrapper">
       <h2>Our Mining Contracts</h2>
       <p>
@@ -703,7 +701,7 @@
     </ul>
     <div style="margin-top: 60px">
       <div class="logo-btn">
-        <a href="/ext-register" class="btn">Open account now</a>
+        <a href="/register" class="btn">Open account now</a>
       </div>
     </div>
   </div>
