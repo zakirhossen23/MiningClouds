@@ -30,7 +30,7 @@
         a contract with a fixed payment in USDT. Choose a contract now and get
         the first payment to your crypto wallet tomorrow.
       </p>
-      <div class="inner-box">
+      <div class="inner-box p-5 pt-0">
         <ul class="mining__list js-slider" style="padding-top: 35px">
           <li class="mining__item" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide20"
             aria-describedby="slick-slide-control20">
