@@ -189,11 +189,12 @@ button:focus-visible {
 }
 
 .decor-svg_head{
-  width: 1970px;
-  height: 898px;
+  width: 2484px;
+  height: 1395px;
   position: absolute;
   right: 0;
-  bottom: -25px;
+  bottom: -132px;
+  
 }
 
 
