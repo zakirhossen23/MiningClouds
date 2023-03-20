@@ -3,8 +3,7 @@
         <section class="section section_login">
             <div class="wrapper">
                 <div class="login-wrap login-wrap_mod">
-                    <div class="login-logo"><img src="/designs/unified2/img/main/logo_6y.svg" alt="logo"></div>
-                    <div class="login-block">
+                       <div class="login-block">
                         <h3>Open an account</h3>
                         <form class="login-form" method="POST" action="https://client.iqmining.io/register">
                             <input type="hidden" name="_token" value="5tp7XoEx3eHLJzUY3b8axKHkA1XJgS612iwNhCYH">
