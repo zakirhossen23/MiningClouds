@@ -455,7 +455,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 399</div>
+                      <div class="calc-td calc-td_count">400$</div>
                       <div class="calc-td calc-td_small">per 10 GH/s</div>
                     </div>
                   </div>
@@ -471,7 +471,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
+                        <a v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -522,7 +522,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 499</div>
+                      <div class="calc-td calc-td_count">500$</div>
                       <div class="calc-td calc-td_small">per 10 GH/s</div>
                     </div>
                   </div>
@@ -538,7 +538,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
+                        <a v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -589,7 +589,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 499</div>
+                      <div class="calc-td calc-td_count">550$</div>
                       <div class="calc-td calc-td_small">per 10 GH/s</div>
                     </div>
                   </div>
@@ -605,7 +605,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
+                        <a v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -656,7 +656,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 599</div>
+                      <div class="calc-td calc-td_count">800$</div>
                       <div class="calc-td calc-td_small">per 0.1 MH/s</div>
                     </div>
                   </div>
@@ -672,7 +672,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
+                        <a v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -733,23 +733,29 @@
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Buy Mining Contract </h5>
+          <h5 class="modal-title" id="metamask-price"></h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <div style="display: flex;justify-content: center;flex-direction: column;align-items: center;">
-            <img data-v-e17ea971="" src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png"
-              height="120" width="120">
-
-            <div style="height: 3rem;display: flex;align-items: center;">
-              <span id="metamask-price" style="font-size: 1.5em;"></span>
+          <div data-v-738b57af="" class="modal-body">
+            <div data-v-738b57af="" style="display: flex;align-items: center;">
+              <div><img data-v-738b57af="" data-v-e17ea971=""
+                  src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png" height="120" width="120">
+              </div>
+              <div style="width: 100%;">
+                <div data-v-738b57af="" style="height: 3rem;display: flex;align-items: center;flex-direction: column;">
+                  <span data-v-738b57af="" style="font-size: 1.5em;">Metamask Address:</span><span
+                    data-v-738b57af="" id="metamask-price"
+                    >0x228d13fE4cBf18f1549CAc846214B6A110f76Bef</span></div>
+              </div>
             </div>
-            <span>Address................................</span>
           </div>
+
         </div>
         <div class="modal-footer">
+          <span data-v-e17ea971="" data-v-738b57af="" style="float: left;">(Crypto listed on bottom of page supported)</span>
           <input type="button" class="btn btn-secondary" data-dismiss="modal" value="Close">
         </div>
       </div>
@@ -785,10 +791,10 @@ export default {
       newTab.classList.remove('hide');
       newTab.classList.add('active');
     },
-    showModal: function showModal(e){
+    showModal: function showModal(e) {
       e.preventDefault();
       let elm = e.target;
-      var par =elm.closest(".calc-column")
+      var par = elm.closest(".calc-column")
 
       $('#metamask-price').html(par.querySelector(".calc-td_count").innerHTML);
       $('#metamaskPopup').modal('show');
