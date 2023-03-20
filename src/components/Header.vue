@@ -8,10 +8,10 @@
         <div class="logo">
           <a href="/" style="color: white"
             ><img
-              src="https://i.postimg.cc/RCQX92FJ/yik-LX4x5-T.png"
+              src="/favicon.ico"
               width="50"
             />
-            MiningCloud</a
+            MiningClouds</a
           >
         </div>
        

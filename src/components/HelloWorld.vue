@@ -1,5 +1,7 @@
 <template>
+  <Header></Header>
   <div class="main-wrapper">
+
     <section class="section section_head">
       <div class="decor-svg decor-svg_head">
         <svg viewBox="0 0 1440 809" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -222,7 +224,7 @@
         <div class="inner-box">
           <h1 class="title">CLOUD MINING</h1>
           <p>
-            Our Mining Cloud platform is next level remote mining with no need of storage spaces for mining rigs. This
+            Our MINING CLOUDS platform is next level remote mining with no need of storage spaces for mining rigs. This
             gives
             you the opportunity to multiply your earnings with a single smart investment.
           </p>
@@ -291,7 +293,7 @@
       <div class="wrapper">
         <h1 class="blabla">Cloud Mining</h1>
         <p>
-          MiningCloud is offering a wide selection of
+          MINING CLOUDS is offering a wide selection of
           <strong>cloud mining</strong> contracts. Mining contracts with payouts
           in the most popular and trusted cryptocurrencies, 100+ altcoins and also
           a contract with a fixed payment in USDT. Choose a contract now and get
@@ -469,7 +471,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -536,7 +538,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -603,7 +605,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -670,7 +672,7 @@
                     <div class="calc-td-inner calc-td-inner_full">
 
                       <div class="calc-td">
-                        <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        <a  v-on:click="showModal" class="btn auto-buylink" tabindex="-1">Buy
                           now</a>
                       </div>
                     </div>
@@ -708,10 +710,18 @@
           </li>
           <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
             aria-describedby="slick-slide-control51">
-            <img src="/assets/logo-5.svg" alt="alt" />
+            <img src="/assets/logo-5.png" width="100" alt="alt" />
+          </li>
+          <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
+            aria-describedby="slick-slide-control51">
+            <img src="/assets/logo-6.png" width="100" alt="alt" />
+          </li>
+          <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
+            aria-describedby="slick-slide-control51">
+            <img src="/assets/logo-7.svg" alt="alt" />
           </li>
           <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide54">
-            <img src="/assets/logo-6.svg" alt="alt" />
+            <img src="/assets/logo-8.svg" alt="alt" />
           </li>
         </ul>
       </div>
@@ -729,11 +739,14 @@
           </button>
         </div>
         <div class="modal-body">
-          <div style="display: flex;justify-content: center;flex-direction: column;align-items: center;gap: 3rem;">
+          <div style="display: flex;justify-content: center;flex-direction: column;align-items: center;">
             <img data-v-e17ea971="" src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png"
               height="120" width="120">
-              
-            <span>Address.......................................</span>
+
+            <div style="height: 3rem;display: flex;align-items: center;">
+              <span id="metamask-price" style="font-size: 1.5em;"></span>
+            </div>
+            <span>Address................................</span>
           </div>
         </div>
         <div class="modal-footer">
@@ -749,6 +762,9 @@
   color: #888;
 }
 </style>
+<script setup>
+import Header from "./Header.vue";
+</script >
 
 <script>
 export default {
@@ -769,6 +785,14 @@ export default {
       newTab.classList.remove('hide');
       newTab.classList.add('active');
     },
+    showModal: function showModal(e){
+      e.preventDefault();
+      let elm = e.target;
+      var par =elm.closest(".calc-column")
+
+      $('#metamask-price').html(par.querySelector(".calc-td_count").innerHTML);
+      $('#metamaskPopup').modal('show');
+    }
   },
 };
 </script>
