@@ -241,25 +241,13 @@
     </section>
     <section class="section section_steps">
       <div class="wrapper">
-        <h2>3 Easy Steps to Start Mining</h2>
+        <h2>2 Easy Steps to Start Mining</h2>
 
 
         <ul class="steps__list js-steps__list js-steps-slider">
 
 
 
-          <li class="steps__item" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide00"
-            aria-describedby="slick-slide-control00">
-            <div class="steps-inner_1">
-              <img src="https://cdn-icons-png.flaticon.com/512/6091/6091257.png" width="80">
-              <h6>Sign up</h6>
-              <p>
-                Fill in the form and get ready to<br>
-                start mining in under than 1 minute
-              </p>
-            </div>
-
-          </li>
           <li class="steps__item" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide01"
             aria-describedby="slick-slide-control01">
             <div class="steps-inner_1">
@@ -464,7 +452,7 @@
                       Potential income per contract period:
                     </div>
                     <div class="calc-td-inner">
-                      <div class="calc-td">non estimated</div>
+                      <div class="calc-td">0.981</div>
                     </div>
                   </div>
                   <div class="calc-row calc-row_modmh140">
@@ -531,7 +519,7 @@
                       Potential income per contract period:
                     </div>
                     <div class="calc-td-inner">
-                      <div class="calc-td">non estimated</div>
+                      <div class="calc-td">1,547</div>
                     </div>
                   </div>
                   <div class="calc-row calc-row_modmh140">
@@ -598,7 +586,7 @@
                       Potential income per contract period:
                     </div>
                     <div class="calc-td-inner">
-                      <div class="calc-td">non estimated</div>
+                      <div class="calc-td">1,891</div>
                     </div>
                   </div>
                   <div class="calc-row calc-row_modmh140">
@@ -665,7 +653,7 @@
                       Potential income per contract period:
                     </div>
                     <div class="calc-td-inner">
-                      <div class="calc-td">non estimated</div>
+                      <div class="calc-td">2,391</div>
                     </div>
                   </div>
                   <div class="calc-row calc-row_modmh140">

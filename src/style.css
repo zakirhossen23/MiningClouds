@@ -216,8 +216,8 @@ button:focus-visible {
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
-  justify-content: space-between;
   counter-reset: item;
+  justify-content: space-evenly;
 }
 .main-wrapper .steps__item {
   position: relative;
@@ -981,4 +981,7 @@ input[type='text'] {
 .modal-header {
   display: flex;
   justify-content: space-between;
+}#metamask-price {
+  width: -webkit-fill-available;
+  text-align: center;
 }
