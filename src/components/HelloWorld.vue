@@ -221,11 +221,15 @@
       <div class="inner-box">
         <h1 class="title">Cloud Mining</h1>
         <p>
-          MiningCloud platform combines <strong>cloud mining</strong>mining without actually buying storages.
+          Our Mining Cloud platform is next level remote mining with no need of storage spaces for mining rigs. This gives
+          you the opportunity to multiply your earnings with a single smart investment.
         </p>
         <div class="head-pics">
           <div class="head-pic head-pic_1">
             <img src="/assets/home/1.png" alt="alt" />
+          </div>
+          <div class="head-pic head-pic_2">
+            <img src="/assets/home/2.png" alt="alt" />
           </div>
         </div>
       </div>
@@ -234,7 +238,7 @@
   <section class="section section_steps">
     <div class="wrapper">
       <h2>3 Easy Steps to Start Mining</h2>
-     
+
 
       <ul class="steps__list js-steps__list js-steps-slider">
 
@@ -243,14 +247,14 @@
         <li class="steps__item" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide00"
           aria-describedby="slick-slide-control00">
           <div class="steps-inner_1">
-          <img src="https://cdn-icons-png.flaticon.com/512/6091/6091257.png" width="80">
+            <img src="https://cdn-icons-png.flaticon.com/512/6091/6091257.png" width="80">
             <h6>Sign up</h6>
             <p>
               Fill in the form and get ready to<br>
               start mining in under than 1 minute
             </p>
           </div>
-        
+
         </li>
         <li class="steps__item" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide01"
           aria-describedby="slick-slide-control01">
@@ -262,7 +266,7 @@
               contracts and start cloud mining
             </p>
           </div>
-          
+
         </li>
         <li class="steps__item" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide02"
           aria-describedby="slick-slide-control02">
@@ -274,7 +278,7 @@
               daily basis to your crypto wallet
             </p>
           </div>
-        
+
         </li>
       </ul>
     </div>
@@ -361,7 +365,7 @@
 
       <div class="tab-wrap active">
         <ul class="nav-tab-list tabs">
-         
+
           <li class="nav-tab-list__item active">
             <a href="#tab_4" v-on:click="activeTab" class="nav-tab-list__link ">lifetime</a>
           </li>
@@ -445,7 +449,7 @@
                   <div class="calc-td calc-td_hide">Contract price:</div>
 
                   <div class="calc-td-inner">
-                  
+
                     <div class="calc-td calc-td_count">$ 0.113</div>
                     <div class="calc-td calc-td_small">per 10 GH/s</div>
                   </div>
@@ -460,9 +464,10 @@
                 </div>
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
-                   
+
                     <div class="calc-td">
-                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
+                      <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        now</a>
                     </div>
                   </div>
                 </div>
@@ -511,7 +516,7 @@
                   <div class="calc-td calc-td_hide">Contract price:</div>
 
                   <div class="calc-td-inner">
-                 
+
                     <div class="calc-td calc-td_count">$ 0.793</div>
                     <div class="calc-td calc-td_small">per 10 GH/s</div>
                   </div>
@@ -526,9 +531,10 @@
                 </div>
                 <div class="calc-row calc-row_modmh140">
                   <div class="calc-td-inner calc-td-inner_full">
-             
+
                     <div class="calc-td">
-                      <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
+                      <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        now</a>
                     </div>
                   </div>
                 </div>
@@ -574,142 +580,168 @@
                   </div>
                 </div>
                 <div class="calc-row calc-row_modmh120">
-                <div class="calc-td calc-td_hide">Contract price:</div>
+                  <div class="calc-td calc-td_hide">Contract price:</div>
 
-                <div class="calc-td-inner">
-                
-                  <div class="calc-td calc-td_count">$ 0.793</div>
-                  <div class="calc-td calc-td_small">per 10 GH/s</div>
+                  <div class="calc-td-inner">
+
+                    <div class="calc-td calc-td_count">$ 0.793</div>
+                    <div class="calc-td calc-td_small">per 10 GH/s</div>
+                  </div>
                 </div>
-              </div>
-              <div class="calc-row calc-row_modmh">
-                <div class="calc-td calc-td_hide">
-                  Potential income per contract period:
+                <div class="calc-row calc-row_modmh">
+                  <div class="calc-td calc-td_hide">
+                    Potential income per contract period:
+                  </div>
+                  <div class="calc-td-inner">
+                    <div class="calc-td">non estimated</div>
+                  </div>
                 </div>
-                <div class="calc-td-inner">
-                  <div class="calc-td">non estimated</div>
-                </div>
-              </div>
-              <div class="calc-row calc-row_modmh140">
-                <div class="calc-td-inner calc-td-inner_full">
-             
-                  <div class="calc-td">
-                    <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
+                <div class="calc-row calc-row_modmh140">
+                  <div class="calc-td-inner calc-td-inner_full">
+
+                    <div class="calc-td">
+                      <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        now</a>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide94"
-              aria-describedby="slick-slide-control94">
-              <div class="calc-row calc-row_modmh70">
-                <div class="calc-td calc-td_head">Ethereum</div>
-              </div>
-              <div class="calc-row">
-                <div class="calc-td calc-td_hide">Mining strategy:</div>
-                <div class="calc-td-inner">
-                  <div class="calc-td">ETH</div>
+              <div class="calc-column" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide94"
+                aria-describedby="slick-slide-control94">
+                <div class="calc-row calc-row_modmh70">
+                  <div class="calc-td calc-td_head">Ethereum</div>
                 </div>
-              </div>
-              <div class="calc-row">
-                <div class="calc-td calc-td_hide">Min. hashrate:</div>
-                <div class="calc-td-inner">
-                  <div class="calc-td">0.1 MH/s</div>
-                </div>
-              </div>
-              <div class="calc-row calc-row_modp calc-row_modlh">
-                <div class="calc-td calc-td_hide">Maintenance fee:</div>
-                <div class="calc-td-inner">
-                  <div class="calc-td">
-                    0.00013$ <br />
-                    0.1 MH/s / 24h
+                <div class="calc-row">
+                  <div class="calc-td calc-td_hide">Mining strategy:</div>
+                  <div class="calc-td-inner">
+                    <div class="calc-td">ETH</div>
                   </div>
                 </div>
-              </div>
-              <div class="calc-row">
-                <div class="calc-td calc-td_hide">Payouts:</div>
-
-                <div class="calc-td-inner">
-                  <div class="calc-td">daily in ETH</div>
+                <div class="calc-row">
+                  <div class="calc-td calc-td_hide">Min. hashrate:</div>
+                  <div class="calc-td-inner">
+                    <div class="calc-td">0.1 MH/s</div>
+                  </div>
                 </div>
-              </div>
-              <div class="calc-row">
-                <div class="calc-td calc-td_hide">Availability:</div>
-            
-                <div class="calc-td-inner">
+                <div class="calc-row calc-row_modp calc-row_modlh">
+                  <div class="calc-td calc-td_hide">Maintenance fee:</div>
+                  <div class="calc-td-inner">
+                    <div class="calc-td">
+                      0.00013$ <br />
+                      0.1 MH/s / 24h
+                    </div>
+                  </div>
+                </div>
+                <div class="calc-row">
+                  <div class="calc-td calc-td_hide">Payouts:</div>
+
+                  <div class="calc-td-inner">
+                    <div class="calc-td">daily in ETH</div>
+                  </div>
+                </div>
+                <div class="calc-row">
+                  <div class="calc-td calc-td_hide">Availability:</div>
+
+                  <div class="calc-td-inner">
                     <div class="calc-td">In Stock</div>
                   </div>
-              </div>
-              <div class="calc-row calc-row_modmh120">
-                <div class="calc-td calc-td_hide">Contract price:</div>
+                </div>
+                <div class="calc-row calc-row_modmh120">
+                  <div class="calc-td calc-td_hide">Contract price:</div>
 
-                <div class="calc-td-inner">
-                
-                  <div class="calc-td calc-td_count">$ 1.803</div>
-                  <div class="calc-td calc-td_small">per 0.1 MH/s</div>
+                  <div class="calc-td-inner">
+
+                    <div class="calc-td calc-td_count">$ 1.803</div>
+                    <div class="calc-td calc-td_small">per 0.1 MH/s</div>
+                  </div>
                 </div>
-              </div>
-              <div class="calc-row calc-row_modmh">
-                <div class="calc-td calc-td_hide">
-                  Potential income per contract period:
+                <div class="calc-row calc-row_modmh">
+                  <div class="calc-td calc-td_hide">
+                    Potential income per contract period:
+                  </div>
+                  <div class="calc-td-inner">
+                    <div class="calc-td">non estimated</div>
+                  </div>
                 </div>
-                <div class="calc-td-inner">
-                  <div class="calc-td">non estimated</div>
-                </div>
-              </div>
-              <div class="calc-row calc-row_modmh140">
-                <div class="calc-td-inner calc-td-inner_full">
-                 
-                  <div class="calc-td">
-                    <a href="/ext-register" class="btn auto-buylink" tabindex="-1">Buy now</a>
+                <div class="calc-row calc-row_modmh140">
+                  <div class="calc-td-inner calc-td-inner_full">
+
+                    <div class="calc-td">
+                      <a data-toggle="modal" data-target="#metamaskPopup" class="btn auto-buylink" tabindex="-1">Buy
+                        now</a>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
+
           </div>
-       
+        </div>
       </div>
+    </div>
+  </section>
+  <section class="section section_logo">
+    <div class="wrapper">
+      <h2>How to Buy Power and Withdraw Profit</h2>
+      <p>
+        Easy and convenient purchase and withdrawal methods
+        <span>without any commission</span>
+      </p>
+
+      <ul class="logo__list">
+        <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide50"
+          aria-describedby="slick-slide-control50">
+          <img src="/assets/logo-1.svg" alt="alt" />
+        </li>
+        <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide51">
+          <img src="/assets/logo-2.svg" alt="alt" />
+        </li>
+        <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide52">
+          <img src="/assets/logo-3.svg" alt="alt" />
+        </li>
+        <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
+          aria-describedby="slick-slide-control51">
+          <img src="/assets/logo-4.svg" alt="alt" />
+        </li>
+        <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide54">
+          <img src="/assets/logo-5.svg" alt="alt" />
+        </li>
+      </ul>
+      <div style="margin-top: 60px">
+        <div class="logo-btn">
+          <a href="/register" class="btn">Open account now</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Modal -->
+  <div class="modal fade" id="metamaskPopup" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Buy Mining Contract </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div  style="display: flex;justify-content: center;flex-direction: column;align-items: center;">
+            <img data-v-e17ea971="" src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png" height="120" width="120">
+              <span>ETH Address.......................</span></div>
+        </div>
+        <div class="modal-footer">
+          <input type="button" class="btn btn-secondary" data-dismiss="modal" value="Close">
+        </div>
       </div>
     </div>
   </div>
-</section>
-<section class="section section_logo">
-  <div class="wrapper">
-    <h2>How to Buy Power and Withdraw Profit</h2>
-    <p>
-      Easy and convenient purchase and withdrawal methods
-      <span>without any commission</span>
-    </p>
+</template>
 
-    <ul class="logo__list">
-      <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide50"
-        aria-describedby="slick-slide-control50">
-        <img src="/assets/logo-1.svg" alt="alt" />
-      </li>
-      <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide51">
-        <img src="/assets/logo-2.svg" alt="alt" />
-      </li>
-      <li class="" style="" aria-hidden="true" tabindex="0" role="tabpanel" id="slick-slide52">
-        <img src="/assets/logo-3.svg" alt="alt" />
-      </li>
-      <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
-        aria-describedby="slick-slide-control51">
-        <img src="/assets/logo-4.svg" alt="alt" />
-      </li>
-      <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide54">
-        <img src="/assets/logo-5.svg" alt="alt" />
-      </li>
-    </ul>
-    <div style="margin-top: 60px">
-      <div class="logo-btn">
-        <a href="/register" class="btn">Open account now</a>
-      </div>
-    </div>
-  </div>
-</section></template>
-
-<style scoped>.read-the-docs {
+<style scoped>
+.read-the-docs {
   color: #888;
-}</style>
+}
+</style>
 
 <script>
 export default {

@@ -973,3 +973,11 @@ input[type='text'] {
   align-items: center;
   gap: 1rem;
 }
+
+
+/* Modal  */
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+}
