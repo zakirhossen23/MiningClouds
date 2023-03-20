@@ -359,7 +359,7 @@
         <strong>cloud mining</strong> contracts by providing<br />
         daily payouts for all the contracts in the currency of the contract.
         <br />
-        Start cryptocurrency and stablecoins <u>cloud mining</u> today, and get
+        Start earning cryptocurrency and stablecoins cloud mining today, and get
         the first payout tomorrow!
       </p>
 
