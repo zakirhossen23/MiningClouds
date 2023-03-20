@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>check_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IQmining-pricing.2" transform="translate(-350.000000, -661.000000)" fill="#ffffff" fill-rule="nonzero">
+            <g id="bitcoin_rate" transform="translate(135.000000, 400.000000)">
+                <g id="you-buy" transform="translate(30.000000, 133.000000)">
+                    <path d="M192.465239,143 C192.106741,143 191.748584,142.863368 191.475866,142.587701 L185.410103,136.49453 C184.863299,135.944912 184.863299,135.054401 185.410103,134.505127 C185.956907,133.955852 186.843412,133.955852 187.390558,134.505127 L192.466948,139.604797 L203.609784,128.411956 C204.156588,127.862681 205.043093,127.862681 205.589897,128.411956 C206.136701,128.96123 206.136701,129.851742 205.589897,130.401016 L193.45803,142.587701 C193.181894,142.863368 192.823737,143 192.465239,143 Z" id="check_icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

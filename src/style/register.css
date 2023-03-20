@@ -22,6 +22,7 @@
 }
 
 .main-wrapper .section_login .form-control {
+    height: auto;
     width: 100%;
     padding: 8px 18px;
     border: 2px solid #edf5f7;
@@ -160,7 +161,7 @@
     left: 3px;
     width: 20px;
     height: 10px;
-    background: url("../img/icons/check_icon_white.svg") center no-repeat;
+    background: url("/assets/icons/check_icon_white.svg") center no-repeat;
     background-size: contain;
     opacity: 0;
     -webkit-transition: all 0.25s cubic-bezier(0.445, 0.05, 0.55, 0.95);
@@ -428,4 +429,13 @@
         font-size: 120px;
         line-height: 120px;
     }
+}
+
+.main-wrapper h3 {
+    font-size: 30px;
+    line-height: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    font-weight: 300;
+    padding: 0;
 }
