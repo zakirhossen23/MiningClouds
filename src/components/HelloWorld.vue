@@ -220,7 +220,7 @@
       </div>
       <div class="wrapper">
         <div class="inner-box">
-          <h1 class="title">Cloud Mining</h1>
+          <h1 class="title">CLOUD MINING</h1>
           <p>
             Our Mining Cloud platform is next level remote mining with no need of storage spaces for mining rigs. This
             gives
@@ -453,7 +453,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 0.113</div>
+                      <div class="calc-td calc-td_count">$ 399</div>
                       <div class="calc-td calc-td_small">per 10 GH/s</div>
                     </div>
                   </div>
@@ -520,7 +520,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 0.793</div>
+                      <div class="calc-td calc-td_count">$ 499</div>
                       <div class="calc-td calc-td_small">per 10 GH/s</div>
                     </div>
                   </div>
@@ -587,7 +587,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 0.793</div>
+                      <div class="calc-td calc-td_count">$ 499</div>
                       <div class="calc-td calc-td_small">per 10 GH/s</div>
                     </div>
                   </div>
@@ -654,7 +654,7 @@
 
                     <div class="calc-td-inner">
 
-                      <div class="calc-td calc-td_count">$ 1.803</div>
+                      <div class="calc-td calc-td_count">$ 599</div>
                       <div class="calc-td calc-td_small">per 0.1 MH/s</div>
                     </div>
                   </div>
@@ -704,10 +704,14 @@
           </li>
           <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
             aria-describedby="slick-slide-control51">
-            <img src="/assets/logo-4.svg" alt="alt" />
+            <img src="/assets/logo-4.png" width="100" alt="alt" />
+          </li>
+          <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide53"
+            aria-describedby="slick-slide-control51">
+            <img src="/assets/logo-5.svg" alt="alt" />
           </li>
           <li class="" style="" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide54">
-            <img src="/assets/logo-5.svg" alt="alt" />
+            <img src="/assets/logo-6.svg" alt="alt" />
           </li>
         </ul>
       </div>
