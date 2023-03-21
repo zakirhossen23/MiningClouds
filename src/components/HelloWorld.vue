@@ -452,7 +452,7 @@
                       Potential income per contract period:
                     </div>
                     <div class="calc-td-inner">
-                      <div class="calc-td">0.981</div>
+                      <div class="calc-td">0,981</div>
                     </div>
                   </div>
                   <div class="calc-row calc-row_modmh140">
